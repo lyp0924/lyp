@@ -17,4 +17,4 @@
 	git diff查看当前工作目录与版本仓库的差异
 	git show显示log的具体改变信息
 	git merge合并连个分支
-	git reset撤销/回退版本（-soft -head -mixed）
+	git reset撤销/回退版本（--soft --head --mixed）
