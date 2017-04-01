@@ -18,3 +18,6 @@
 	git show显示log的具体改变信息
 	git merge合并连个分支
 	git reset撤销/回退版本（--soft --head --mixed）
+	git remote查看当前配置有哪些远程仓库
+	git remote -v列出详细信息
+	git remote add shortName URL 添加新的远程仓库
