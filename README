@@ -9,8 +9,12 @@
 	git push提交本地仓库到远程仓库
 	git pull取回远程仓库到本地仓库
 	git clone从远程仓库克隆一个版本库到本地
-	git branch创建新分支
+	git branch branchName创建新分支
+	git branch -d branchName删除分支
 	git checkout切换分支
 	git checkout -b branchName 创建并切换分支
 	git rm删除本地仓库的一个文件或文件夹
-
+	git diff查看当前工作目录与版本仓库的差异
+	git show显示log的具体改变信息
+	git merge合并连个分支
+	git reset撤销/回退版本（-soft -head -mixed）
